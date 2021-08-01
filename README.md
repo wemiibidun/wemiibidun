@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wemiibidun
+### Hi there, I'm Wemimo 👋
 - 👀 I’m interested in coding, writing and learning
 - 🌱 I’m currently learning HTML, CSS, Javascript, React, Node JS amongst others
 - 💞️ I’m looking to collaborate on anything coding and web development related topics
