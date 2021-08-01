@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wemiibidun
 - 👀 I’m interested in coding, writing and learning
-- 🌱 I’m currently learning Python, Javascript, React, HTML, CSS amongst others
+- 🌱 I’m currently learning HTML, CSS, Javascript, React, Node JS amongst others
 - 💞️ I’m looking to collaborate on anything coding and web development related topics
 - 📫 How to reach me wemiibidun@gmail.com
 
@@ -31,9 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-
-
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
@@ -57,4 +55,6 @@ You can click the Preview link to take a look at your changes.
 [react]: https://reactjs.org/
 [sql]: https://en.wikipedia.org/wiki/SQL
 [nodejs]: https://nodejs.org/en/docs/
+[mongodb]: https://www.mongodb.com/
+[terminal]: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line
 
