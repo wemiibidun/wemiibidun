@@ -15,6 +15,5 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-</details>
 [twitter]: https://twitter.com/wemiibidun
 [linkedin]: https://www.linkedin.com/in/wemimoibidunmoye/
