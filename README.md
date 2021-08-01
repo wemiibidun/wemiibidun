@@ -49,7 +49,7 @@ You can click the Preview link to take a look at your changes.
 [twitter]: https://twitter.com/wemiibidun
 [linkedin]: https://www.linkedin.com/in/wemimoibidunmoye/
 [visualstudiocode]: https://code.visualstudio.com/
-[github]: https://github.com/[git]: https://git-scm.com/
+[github]: https://github.com/
 [git]: https://git-scm.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS
