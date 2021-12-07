@@ -1,7 +1,7 @@
 ### Hi there, I'm Wemimo 👋
-- 👀 I’m interested in coding, writing and learning
-- 🌱 I’m currently learning HTML, CSS, Javascript, React, Node JS amongst others
-- 💞️ I’m looking to collaborate on anything coding and web development related topics
+- 👀 Front End Developer
+- 🌱 Proficient in React, Javascipt, HTML & CSS
+- 💞️ When i'm not coding, i'm blogging at blog[http://code.wemiibidun.com/]
 - 📫 How to reach me wemiibidun@gmail.com
 
 <!---
