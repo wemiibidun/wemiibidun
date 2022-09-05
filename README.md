@@ -18,6 +18,7 @@ You can click the Preview link to take a look at your changes.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=61DAFB)
 ![Heroku](https://img.shields.io/badge/heroku-4B275F?style=for-the-badge&logo=heroku&logoColor=61DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-4B275F?style=for-the-badge&logo=firebase&logoColor=61DAFB)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white)
 
 
 
