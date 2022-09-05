@@ -29,8 +29,10 @@ You can click the Preview link to take a look at your changes.
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&amp;logo=Canva&amp;logoColor=white)
 
 <br />
+
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 [linkedin]: https://www.linkedin.com/in/wemimoibidunmoye/
