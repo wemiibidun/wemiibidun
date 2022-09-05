@@ -34,18 +34,4 @@ You can click the Preview link to take a look at your changes.
 
 <br />
 
-
-[twitter]: https://twitter.com/wemiibidun
 [linkedin]: https://www.linkedin.com/in/wemimoibidunmoye/
-[visualstudiocode]: https://code.visualstudio.com/
-[github]: https://github.com/
-[git]: https://git-scm.com/
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[react]: https://reactjs.org/
-[sql]: https://en.wikipedia.org/wiki/SQL
-[nodejs]: https://nodejs.org/en/docs/
-[mongodb]: https://www.mongodb.com/
-[terminal]: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line
-
