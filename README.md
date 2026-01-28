@@ -1,7 +1,7 @@
 ### Hi there, I'm Wemimo 👋
-- 👀 Front End Developer
+- 👀 Software Developer
 - 🌱 Proficient in React, Javascipt, HTML & CSS
-- 💞️ When i'm not coding, i'm blogging at [my coding board](http://code.wemiibidun.com/)
+- 💞️ When I'm not coding, I'm blogging at [my coding board](http://code.wemiibidun.com/)
 - 📫 How to reach me wemiibidun@gmail.com
 
 <!---
