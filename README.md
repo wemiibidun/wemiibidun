@@ -1,6 +1,6 @@
 ### Hi there, I'm Wemimo 👋
 - 👀 Software Developer
-- 🌱 Proficient in React, Javascipt, HTML & CSS
+- 🌱 Proficient in React, JavaScript, HTML & CSS
 - 💞️ When I'm not coding, I'm blogging at [my coding board](http://code.wemiibidun.com/)
 - 📫 How to reach me wemiibidun@gmail.com
 
